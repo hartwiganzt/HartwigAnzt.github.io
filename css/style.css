@@ -92,7 +92,8 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color              : #ff5722;
+    color              : #0065bd;
+   /* color              : #ff5722; */
     text-decoration    : none;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
@@ -111,7 +112,8 @@ a:active {
 a:hover,
 a:focus {
     text-decoration : none;
-    color           : #ff5722;
+    color              : #0065bd;
+   /* color              : #ff5722; */
     }
 
 p {
@@ -239,7 +241,8 @@ button:focus,
     padding    : 50px 0;
     margin     : 0;
     position   : relative;
-    border-top : 5px solid #ff5722;
+    border-top : 5px solid #0065bd;
+    /* border-top : 5px solid #ff5722; */
     }
 
 .header .profile-img {
@@ -258,7 +261,7 @@ button:focus,
 
 .header .name-wrapper span {
     font-size : 24px;
-    color     : #ff5722;
+    color     : #0065bd;
     }
 
 .header .personal-details {
